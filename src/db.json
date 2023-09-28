@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "rus",
+      "position": "front-end dev",
+      "expirience": 12,
+      "id": 1
+    },
+    {
+      "name": "123123",
+      "position": "123132",
+      "expirience": "123123123",
+      "id": 2
+    },
+    {
+      "name": "rus ",
+      "position": "front-end",
+      "expirience": "12",
+      "id": 3
+    },
+    {
+      "name": "sulaiman",
+      "position": "backend",
+      "expirience": "1",
+      "id": 4
+    }
+  ]
+}
